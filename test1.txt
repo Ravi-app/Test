@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 2480-DABB
-
- Directory of C:\Users\amma\Desktop\MyProj
-
-13-12-2020  11:32    <DIR>          .
-13-12-2020  11:32    <DIR>          ..
-13-12-2020  11:32                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  531,594,215,424 bytes free
+Change the fist line
