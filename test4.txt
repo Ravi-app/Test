@@ -1,1 +1,3 @@
 change 4
+
+This is the same file which is changed in change 4 file
